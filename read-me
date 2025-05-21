@@ -1,6 +1,6 @@
 transference files free = tff
 
-this program help you to transfer files using http protocol
+this program help you to transfer files in Local network using http protocol
 you need install python
 after you need install depedences, so you need run this code:
 
