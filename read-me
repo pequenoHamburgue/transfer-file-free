@@ -1,0 +1,13 @@
+transference files free = tff
+
+this program help you to transfer files using http protocol
+you need install python
+after you need install depedences, so you need run this code:
+
+pip install -r requirements.txt
+
+After this, you just run your server:
+python server.py
+
+when run this program you need get your ip to run in port 8000.
+if don't work check your firewall
